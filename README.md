@@ -5,20 +5,20 @@
 
 A comprehensive Python-based data analysis project that examines population trends across European countries using open data sources.
 
-## 📋 Project Overview
+## Project Overview
 
 This project analyzes European population statistics to identify demographic trends, compare countries, and visualize population dynamics over time. It demonstrates proficiency in data processing, statistical analysis, and data visualization using Python.
 
 ### Key Features
 
-- 📊 **Data Processing:** Automated cleaning and filtering of population datasets
-- 📈 **Statistical Analysis:** Comprehensive demographic statistics and growth rate calculations
-- 🎨 **Data Visualization:** Multiple chart types for trend analysis and comparison
-- 📝 **Report Generation:** Automated summary reports with key insights
-- 🏗️ **OOP Design:** Clean, maintainable code following SOLID principles
-- ✅ **PEP8 Compliant:** Adheres to Python style guidelines
+- **Data Processing:** Automated cleaning and filtering of population datasets
+- **Statistical Analysis:** Comprehensive demographic statistics and growth rate calculations
+- **Data Visualization:** Multiple chart types for trend analysis and comparison
+- **Report Generation:** Automated summary reports with key insights
+- **OOP Design:** Clean, maintainable code following SOLID principles
+- **PEP8 Compliant:** Adheres to Python style guidelines
 
-## 🎯 Project Goals
+## Project Goals
 
 1. Process open population data for European countries
 2. Calculate key demographic statistics
@@ -26,7 +26,7 @@ This project analyzes European population statistics to identify demographic tre
 4. Create informative visualizations
 5. Generate comprehensive analysis reports
 
-## 📊 Data Source
+## Data Source
 
 **Dataset:** Population Statistics Database  
 **URL:** https://raw.githubusercontent.com/datasets/population/master/data/population.csv  
@@ -34,7 +34,7 @@ This project analyzes European population statistics to identify demographic tre
 
 The dataset contains historical population data from 1960 to present, covering all European nations with year-by-year population figures.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 europe-population-analysis/
@@ -87,7 +87,7 @@ europe-population-analysis/
     └── reports/           # Analysis reports
 ```
 
-## 🏗️ Architecture
+## Architecture
 
 The project uses Object-Oriented Programming with five main classes:
 
@@ -116,7 +116,7 @@ The project uses Object-Oriented Programming with five main classes:
 - Formats outputs
 - Generates reports
 
-## 📊 Output Examples
+## Output Examples
 
 ### Sample Visualizations
 
@@ -137,7 +137,7 @@ Top 10 Countries by Population:
 ...
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.8+** - Core programming language
 - **Pandas** - Data manipulation and analysis
@@ -145,7 +145,7 @@ Top 10 Countries by Population:
 - **Seaborn** - Statistical data visualization
 - **NumPy** - Numerical computing
 
-## 📝 Code Quality
+## Code Quality
 
 - ✅ PEP8 compliant
 - ✅ Comprehensive docstrings
@@ -154,7 +154,7 @@ Top 10 Countries by Population:
 - ✅ Modular design
 - ✅ SOLID principles
 
-## 🔍 Analysis Capabilities
+## Analysis Capabilities
 
 - **Descriptive Statistics:** Mean, median, standard deviation, min/max
 - **Comparative Analysis:** Country-by-country comparisons
@@ -162,7 +162,7 @@ Top 10 Countries by Population:
 - **Growth Rate Calculation:** Year-over-year population growth
 - **Data Filtering:** By year range and geographic region
 
-## 📈 Key Insights
+## Key Insights
 
 The analysis reveals:
 - Germany is the most populous European nation
@@ -170,32 +170,23 @@ The analysis reveals:
 - Most countries show steady population growth since 2000
 - Population distribution is right-skewed with few large countries
 
-## 🤝 Contributing
-
-This is an educational project, but contributions are welcome! Please feel free to:
-- Report bugs
-- Suggest new features
-- Improve documentation
-- Add new analysis methods
-
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
+## Author
 
-**[Your Name]**  
-Student ID: [Your ID]  
-Institution: [Your Institution]  
+**Oleksandr Prus**    
+Institution: Vilnius University  
 Date: November 2025
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dataset provided by the Population Statistics Database
 - Eurostat for comprehensive European demographic data
 - Python community for excellent data science libraries
 
-## 📧 Contact
+## Contact
 
 For questions or feedback, please reach out through:
 - GitHub Issues
