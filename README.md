@@ -190,7 +190,6 @@ Date: November 2025
 
 For questions or feedback, please reach out through:
 - GitHub Issues
-- Email: [your-email@example.com]
 
 ---
 
